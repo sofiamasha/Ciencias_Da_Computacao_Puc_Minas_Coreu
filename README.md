@@ -1,81 +1,107 @@
-# 💖 Materias do Curso de Ciência da Computação
+# 💖🎓 Ciência da Computação — PUC Minas
 
-✨ Repositório criado para organizar todas as matérias do curso de Ciência da Computação - PUC Minas
-
----
-
-## 🎓 Currículo
-
-📌 Currículo 3814  
-📍 Status atualizado das disciplinas  
+<p align="center">
+  <img src="https://img.shields.io/badge/Curso-Ciência%20da%20Computação-ff69b4?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Em%20Evolução-ffc0cb?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Foco-Organização%20%26%20Constância-ffb6c1?style=for-the-badge">
+</p>
 
 ---
 
-## 🌸 Legenda
+## 🌸 Sobre este repositório
 
-- ✔ Concluído  
-- 📍 Em andamento  
-- ❌ Não cursado  
+Este repositório foi criado para organizar toda a minha trajetória no curso de **Ciência da Computação — PUC Minas**.
 
----
-
-## 💻 1º Período
-
-| Disciplina | Status | Repositório |
-|-----------|--------|------------|
-| Algoritmos e Estruturas de Dados I | ✔ | [Acessar](https://github.com/sofiamasha/Aeds1.git) |
-| Cálculo I | ✔ | [Acessar](https://github.com/sofiamasha/CalculoI-CalculoII.git) |
-| Desenvolvimento de Interfaces Web | ✔ | [Acessar](https://github.com/sofiamasha/DIW.git) |
-| Filosofia | ✔ | - |
-| Introdução à Computação | ✔ | - |
-| Laboratório de Programação | ✔ | [Acessar](https://github.com/sofiamasha/Lab_Programa-o.git) |
-| TI I (Front-end) | ✔ | [Acessar](https://github.com/sofiamasha/TI1_PetMatch.git) |
+Aqui estão reunidos projetos, exercícios, resumos e materiais importantes de cada disciplina, funcionando como um **mapa da minha evolução acadêmica** 💖
 
 ---
 
-## 💻 2º Período
+## 📊 Progresso Geral
 
-| Disciplina | Status | Repositório |
-|-----------|--------|------------|
-| AEDs II | 📍 | [Acessar](https://github.com/sofiamasha/AedsII.git) |
-| Arquitetura de Computadores I | 📍 | [Acessar](https://github.com/sofiamasha/Arquitetura-de-Computadores-I.git) |
-| Engenharia de Software I | 📍 | - |
-| TI II (Back-end) | 📍 | [Acessar](https://github.com/sofiamasha/TI2.git) |
-| Cultura Religiosa | ✔ | - |
+<p align="center">
+  <img src="https://img.shields.io/badge/✔%20Concluídas-9-ff69b4?style=for-the-badge">
+  <img src="https://img.shields.io/badge/📍%20Em%20andamento-4-ffb6c1?style=for-the-badge">
+  <img src="https://img.shields.io/badge/❌%20Restantes-18-lightgrey?style=for-the-badge">
+</p>
 
 ---
 
-## 💻 3º Período
-
-| Disciplina | Status |
-|-----------|--------|
-| Cálculo II | ✔ |[Acessar](https://github.com/sofiamasha/CalculoI-CalculoII.git) |
-| Banco de Dados | ❌ |
-| Linguagens de Programação | ❌ |
+## 💻 Organização por Período
 
 ---
 
-## 📊 Progresso
+### 🌷 1º Período
 
-✔ Concluídas: 9 
-📍 Em andamento: 4
-❌ Restantes: 18  
+| 💖 Disciplina                      | 📊 Status | 🔗 Repositório                                              |
+| ---------------------------------- | --------- | ----------------------------------------------------------- |
+| Algoritmos e Estruturas de Dados I | ✔         | [Acessar](https://github.com/sofiamasha/Aeds1)              |
+| Cálculo I                          | ✔         | [Acessar](https://github.com/sofiamasha/CalculoI-CalculoII) |
+| Desenvolvimento de Interfaces Web  | ✔         | [Acessar](https://github.com/sofiamasha/DIW)                |
+| Filosofia                          | ✔         | -                                                           |
+| Introdução à Computação            | ✔         | -                                                           |
+| Laboratório de Programação         | ✔         | [Acessar](https://github.com/sofiamasha/Lab_Programa-o)     |
+| TI I — PetMatch 🐾                 | ✔         | [Acessar](https://github.com/sofiamasha/TI1_PetMatch)       |
+
+---
+
+### 🌷 2º Período
+
+| 💖 Disciplina                 | 📊 Status | 🔗 Repositório                                                         |
+| ----------------------------- | --------- | ---------------------------------------------------------------------- |
+| AEDs II                       | 📍        | [Acessar](https://github.com/sofiamasha/AedsII)                        |
+| Arquitetura de Computadores I | 📍        | [Acessar](https://github.com/sofiamasha/Arquitetura-de-Computadores-I) |
+| Engenharia de Software I      | 📍        | -                                                                      |
+| TI II — SafeHer 💖            | 📍        | [Acessar](https://github.com/sofiamasha/TI2)                           |
+| Cultura Religiosa             | ✔         | -                                                                      |
+
+---
+
+### 🌷 3º Período
+
+| 💖 Disciplina             | 📊 Status | 🔗 Repositório                                              |
+| ------------------------- | --------- | ----------------------------------------------------------- |
+| Cálculo II                | ✔         | [Acessar](https://github.com/sofiamasha/CalculoI-CalculoII) |
+| Banco de Dados            | ❌         | -                                                           |
+| Linguagens de Programação | ❌         | -                                                           |
 
 ---
 
 ## ✨ Extras
 
-| Conteúdo | Descrição | Link |
-|---------|----------|------|
-| Lista de Exercícios | Exercícios resolvidos ao longo do curso | [Acessar](https://github.com/sofiamasha/Exercicios_Aeds1.git) |
-| Oficinas | Projetos e práticas complementares | [Acessar](https://github.com/SEUUSER/oficinas) |
-
-## 💅 Sobre este repositório
-
-Este repositório funciona como um guia completo da minha trajetória acadêmica, reunindo projetos, exercícios e anotações desenvolvidas ao longo do curso.
+| 🌸 Conteúdo     | 📄 Descrição                     | 🔗 Link                                                   |
+| --------------- | -------------------------------- | --------------------------------------------------------- |
+| Exercícios AEDs | Listas e práticas de programação | [Acessar](https://github.com/sofiamasha/Exercicios_Aeds1) |
+| Oficinas        | Projetos complementares          | -                                                         |
 
 ---
 
-## 🌷 Objetivo
+## 💅 Destaques
 
-Organizar o aprendizado, acompanhar a evolução e compartilhar conhecimento 💖
+* 💖 Organização por período acadêmico
+* 💖 Evolução contínua documentada
+* 💖 Projetos com propósito (SafeHer)
+* 💖 Desenvolvimento front-end e back-end
+* 💖 Base sólida em lógica e algoritmos
+
+---
+
+## 🎯 Objetivos deste espaço
+
+* 📌 Organizar o aprendizado
+* 📌 Facilitar revisões futuras
+* 📌 Acompanhar evolução acadêmica
+* 📌 Servir como portfólio
+
+---
+
+## 🌷 Observação final
+
+Cada disciplina aqui representa uma etapa importante da minha formação.
+
+Este repositório não é apenas um conjunto de códigos, mas um reflexo do meu desenvolvimento ao longo do curso 💖
+
+---
+
+<p align="center">
+  ✨ feito com dedicação, organização e muitas horas de estudo ✨
+</p>
