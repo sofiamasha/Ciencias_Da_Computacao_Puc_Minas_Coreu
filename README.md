@@ -38,8 +38,8 @@
 | Disciplina | Status | Repositório |
 |-----------|--------|------------|
 | AEDs II | 📍 | [Acessar](https://github.com/sofiamasha/AedsII.git) |
-| Arquitetura de Computadores I | 📍 | [Acessar](https://github.com/SEUUSER/ac1) |
-| Engenharia de Software I | 📍 | [Acessar](https://github.com/SEUUSER/es1) |
+| Arquitetura de Computadores I | 📍 | [Acessar](https://github.com/sofiamasha/Arquitetura-de-Computadores-I.git) |
+| Engenharia de Software I | 📍 | - |
 | TI II (Back-end) | 📍 | [Acessar](https://github.com/sofiamasha/TI2.git) |
 | Cultura Religiosa | ✔ | - |
 
