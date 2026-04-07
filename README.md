@@ -49,7 +49,7 @@
 
 | Disciplina | Status |
 |-----------|--------|
-| Cálculo II | ✔ | [Acessar](https://github.com/sofiamasha/CalculoI-CalculoII.git) |
+| Cálculo II | ✔ |[Acessar](https://github.com/sofiamasha/CalculoI-CalculoII.git) |
 | Banco de Dados | ❌ |
 | Linguagens de Programação | ❌ |
 
