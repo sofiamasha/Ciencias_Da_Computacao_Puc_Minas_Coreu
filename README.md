@@ -63,6 +63,13 @@
 
 ---
 
+## ✨ Extras
+
+| Conteúdo | Descrição | Link |
+|---------|----------|------|
+| Lista de Exercícios | Exercícios resolvidos ao longo do curso | [Acessar](https://github.com/sofiamasha/Exercicios_Aeds1.git) |
+| Oficinas | Projetos e práticas complementares | [Acessar](https://github.com/SEUUSER/oficinas) |
+
 ## 💅 Sobre este repositório
 
 Este repositório funciona como um guia completo da minha trajetória acadêmica, reunindo projetos, exercícios e anotações desenvolvidas ao longo do curso.
