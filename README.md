@@ -24,8 +24,8 @@
 | Disciplina | Status | Repositório |
 |-----------|--------|------------|
 | Algoritmos e Estruturas de Dados I | ✔ | [Acessar](https://github.com/SEUUSER/aeds1) |
-| Cálculo I | ✔ | [Acessar](https://github.com/SEUUSER/calculo1) |
-| Desenvolvimento de Interfaces Web | ✔ | [Acessar](https://github.com/SEUUSER/diw) |
+| Cálculo I | ✔ | [Acessar](https://github.com/sofiamasha/CalculoI-CalculoII.git) |
+| Desenvolvimento de Interfaces Web | ✔ | [Acessar](https://github.com/sofiamasha/DIW.git) |
 | Filosofia | ✔ | - |
 | Introdução à Computação | ✔ | [Acessar](https://github.com/SEUUSER/ic) |
 | Laboratório de Programação | ✔ | [Acessar](https://github.com/SEUUSER/lip) |
@@ -40,7 +40,7 @@
 | AEDs II | 📍 | [Acessar](https://github.com/SEUUSER/aeds2) |
 | Arquitetura de Computadores I | 📍 | [Acessar](https://github.com/SEUUSER/ac1) |
 | Engenharia de Software I | 📍 | [Acessar](https://github.com/SEUUSER/es1) |
-| TI II (Back-end) | 📍 | [Acessar](https://github.com/SEUUSER/ti2) |
+| TI II (Back-end) | 📍 | [Acessar](https://github.com/sofiamasha/TI2.git) |
 | Cultura Religiosa | ✔ | - |
 
 ---
