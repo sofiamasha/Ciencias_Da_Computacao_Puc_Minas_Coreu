@@ -19,7 +19,7 @@ Aqui organizo projetos, exercícios, resumos e materiais desenvolvidos ao longo 
 ## 📊 Progresso
 
 <p align="center">
-  <img src="https://img.shields.io/badge/✔%20Concluídas-15-ff69b4?style=for-the-badge">
+  <img src="https://img.shields.io/badge/✔%20Concluídas-14-ff69b4?style=for-the-badge">
   <img src="https://img.shields.io/badge/📍%20Em%20Andamento-6-ffc0cb?style=for-the-badge">
 </p>
 
@@ -45,7 +45,7 @@ Aqui organizo projetos, exercícios, resumos e materiais desenvolvidos ao longo 
 
 | 💖 Disciplina | 📊 Status | 🔗 Repositório |
 |---------------|-----------|----------------|
-| Algoritmos e Estruturas de Dados II | ✔ Concluída | [Acessar](https://github.com/sofiamasha/AedsII) |
+| Algoritmos e Estruturas de Dados II | 📍 Em andamento | [Acessar](https://github.com/sofiamasha/AedsII) |
 | Arquitetura de Computadores I | ✔ Concluída | [Acessar](https://github.com/sofiamasha/Arquitetura-de-Computadores-I) |
 | Engenharia de Software I | ✔ Concluída | - |
 | Trabalho Interdisciplinar II • SafeHer 💖 | ✔ Concluída | [Acessar](https://github.com/sofiamasha/TI2) |
@@ -74,6 +74,20 @@ Aqui organizo projetos, exercícios, resumos e materiais desenvolvidos ao longo 
 
 ---
 
+## 🌟 Destaques Acadêmicos
+
+Algumas disciplinas nas quais obtive desempenho igual ou superior a **80%**:
+
+- ⭐ **Filosofia** — **95%**
+- ⭐ **Trabalho Interdisciplinar II (SafeHer)** — **95%**
+- ⭐ **Língua Brasileira de Sinais (Optativa)** — **90%**
+- ⭐ **Laboratório de Programação** — **88%**
+- ⭐ **Desenvolvimento de Interfaces Web** — **81%**
+- ⭐ **Cultura Religiosa** — **81%**
+- ⭐ **Arquitetura de Computadores I** — **80%**
+
+---
+
 ## ✨ Extras
 
 | 🌸 Conteúdo | 📄 Descrição | 🔗 Link |
@@ -86,7 +100,7 @@ Aqui organizo projetos, exercícios, resumos e materiais desenvolvidos ao longo 
 
 - 💖 Organização por período acadêmico
 - 💖 Evolução contínua documentada
-- 💖 Projetos com impacto social (SafeHer)
+- 💖 Projetos com propósito social (SafeHer)
 - 💖 Desenvolvimento Front-end e Back-end
 - 💖 Estudos em algoritmos, estruturas de dados, arquitetura de computadores e engenharia de software
 
@@ -94,21 +108,22 @@ Aqui organizo projetos, exercícios, resumos e materiais desenvolvidos ao longo 
 
 ## 🎯 Objetivos deste espaço
 
-- 📌 Centralizar minha evolução acadêmica
-- 📌 Documentar projetos desenvolvidos durante a graduação
-- 📌 Facilitar revisões e consultas futuras
-- 📌 Servir como portfólio para oportunidades de estágio e carreira
+- 📌 Organizar minha trajetória acadêmica.
+- 📌 Centralizar projetos e atividades da graduação.
+- 📌 Facilitar revisões futuras.
+- 📌 Demonstrar minha evolução como desenvolvedora.
+- 📌 Servir como portfólio para oportunidades de estágio e carreira.
 
 ---
 
 ## 🌷 Observação
 
-Este repositório representa minha jornada durante a graduação em Ciência da Computação.
+Este repositório representa minha evolução durante a graduação em Ciência da Computação.
 
-Cada disciplina, projeto e exercício contribuíram para o desenvolvimento das minhas habilidades técnicas e da minha formação como futura desenvolvedora.
+Cada disciplina, projeto e exercício publicados aqui fazem parte da construção das minhas habilidades técnicas e da minha formação como futura desenvolvedora.
 
 ---
 
 <p align="center">
-✨ feito com dedicação, organização e muitas horas de estudo ✨
+✨ feito com dedicação, organização e muitas horas de estudo 💖
 </p>
