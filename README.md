@@ -19,59 +19,73 @@ Aqui estão reunidos projetos, exercícios, resumos e materiais importantes de c
 ## 📊 Progresso Geral
 
 <p align="center">
-  <img src="https://img.shields.io/badge/✔%20Concluídas-9-ff69b4?style=for-the-badge">
-  <img src="https://img.shields.io/badge/📍%20Em%20andamento-4-ffb6c1?style=for-the-badge">
-  <img src="https://img.shields.io/badge/❌%20Restantes-18-lightgrey?style=for-the-badge">
+  <img src="https://img.shields.io/badge/✔%20Concluídas-15-ff69b4?style=for-the-badge">
+  <img src="https://img.shields.io/badge/📍%20Em%20andamento-7-ffb6c1?style=for-the-badge">
 </p>
 
 ---
 
-## 💻 Organização por Período
+# 💻 Organização por Período
 
 ---
 
-### 🌷 1º Período
+## 🌷 1º Período
 
-| 💖 Disciplina                      | 📊 Status | 🔗 Repositório                                              |
-| ---------------------------------- | --------- | ----------------------------------------------------------- |
-| Algoritmos e Estruturas de Dados I | ✔         | [Acessar](https://github.com/sofiamasha/Aeds1)              |
-| Cálculo I                          | ✔         | [Acessar](https://github.com/sofiamasha/CalculoI-CalculoII) |
-| Desenvolvimento de Interfaces Web  | ✔         | [Acessar](https://github.com/sofiamasha/DIW)                |
-| Filosofia                          | ✔         | -                                                           |
-| Introdução à Computação            | ✔         | -                                                           |
-| Laboratório de Programação         | ✔         | [Acessar](https://github.com/sofiamasha/Lab_Programa-o)     |
-| TI I — PetMatch 🐾                 | ✔         | [Acessar](https://github.com/sofiamasha/TI1_PetMatch)       |
+| 💖 Disciplina                      | 📊 Status | 🏅 Resultado | 🔗 Repositório                                                                                       |
+| ---------------------------------- | --------- | ------------ | ---------------------------------------------------------------------------------------------------- |
+| Algoritmos e Estruturas de Dados I | ✔         | 70%          | [https://github.com/sofiamasha/Aeds1](https://github.com/sofiamasha/Aeds1)                           |
+| Cálculo I                          | ✔         | 70%          | [https://github.com/sofiamasha/CalculoI-CalculoII](https://github.com/sofiamasha/CalculoI-CalculoII) |
+| Desenvolvimento de Interfaces Web  | ✔         | 81%          | [https://github.com/sofiamasha/DIW](https://github.com/sofiamasha/DIW)                               |
+| Filosofia                          | ✔         | 95%          | -                                                                                                    |
+| Introdução à Computação            | ✔         | 77%          | -                                                                                                    |
+| Laboratório de Programação         | ✔         | 88%          | [https://github.com/sofiamasha/Lab_Programa-o](https://github.com/sofiamasha/Lab_Programa-o)         |
+| TI I • PetMatch 🐾                 | ✔         | 61%          | [https://github.com/sofiamasha/TI1_PetMatch](https://github.com/sofiamasha/TI1_PetMatch)             |
+| EAD I (Zoom)                       | ✔         | Concluído    | -                                                                                                    |
 
----
-
-### 🌷 2º Período
-
-| 💖 Disciplina                 | 📊 Status | 🔗 Repositório                                                         |
-| ----------------------------- | --------- | ---------------------------------------------------------------------- |
-| AEDs II                       | 📍        | [Acessar](https://github.com/sofiamasha/AedsII)                        |
-| Arquitetura de Computadores I | 📍        | [Acessar](https://github.com/sofiamasha/Arquitetura-de-Computadores-I) |
-| Engenharia de Software I      | 📍        | -                                                                      |
-| TI II — SafeHer 💖            | 📍        | [Acessar](https://github.com/sofiamasha/TI2)                           |
-| Cultura Religiosa             | ✔         | -                                                                      |
+> **Frequência geral do período:** **96,77%**
 
 ---
 
-### 🌷 3º Período
+## 🌷 2º Período
 
-| 💖 Disciplina             | 📊 Status | 🔗 Repositório                                              |
-| ------------------------- | --------- | ----------------------------------------------------------- |
-| Cálculo II                | ✔         | [Acessar](https://github.com/sofiamasha/CalculoI-CalculoII) |
-| Banco de Dados            | ❌         | -                                                           |
-| Linguagens de Programação | ❌         | -                                                           |
+| 💖 Disciplina                             | 📊 Status | 🏅 Resultado | 🔗 Repositório                                                                                                             |
+| ----------------------------------------- | --------- | ------------ | -------------------------------------------------------------------------------------------------------------------------- |
+| Algoritmos e Estruturas de Dados II       | ✔         | -            | [https://github.com/sofiamasha/AedsII](https://github.com/sofiamasha/AedsII)                                               |
+| Arquitetura de Computadores I             | ✔         | 80%          | [https://github.com/sofiamasha/Arquitetura-de-Computadores-I](https://github.com/sofiamasha/Arquitetura-de-Computadores-I) |
+| Engenharia de Software I                  | ✔         | 70%          | -                                                                                                                          |
+| Trabalho Interdisciplinar II • SafeHer 💖 | ✔         | 95%          | [https://github.com/sofiamasha/TI2](https://github.com/sofiamasha/TI2)                                                     |
+| Cálculo II                                | ✔         | 65%          | [https://github.com/sofiamasha/CalculoI-CalculoII](https://github.com/sofiamasha/CalculoI-CalculoII)                       |
+| Cultura Religiosa                         | ✔         | 81%          | -                                                                                                                          |
+| Língua Brasileira de Sinais (Optativa)    | ✔         | 90%          | [https://github.com/sofiamasha/Libras](https://github.com/sofiamasha/Libras)                                               |
+| EAD II (Zoom)                             | ✔         | Concluído    | -                                                                                                                          |
+
+---
+
+## 🌷 3º Período (Atual)
+
+| 💖 Disciplina                        | 📊 Status | 🔗 Repositório |
+| ------------------------------------ | --------- | -------------- |
+| Algoritmos e Estruturas de Dados III | 📍        | -              |
+| Banco de Dados                       | 📍        | -              |
+| Trabalho Interdisciplinar III        | 📍        | -              |
+| Gestão de Redes e Mídias (Optativa)  | 📍        | -              |
+| EAD III                              | 📍        | -              |
+
+---
+
+## 🌷 4º Período
+
+| 💖 Disciplina               | 📊 Status | 🔗 Repositório |
+| --------------------------- | --------- | -------------- |
+| Estatística e Probabilidade | 📍        | -              |
 
 ---
 
 ## ✨ Extras
 
-| 🌸 Conteúdo     | 📄 Descrição                     | 🔗 Link                                                   |
-| --------------- | -------------------------------- | --------------------------------------------------------- |
-| Exercícios AEDs | Listas e práticas de programação | [Acessar](https://github.com/sofiamasha/Exercicios_Aeds1) |
-| Oficinas        | Projetos complementares          | -                                                         |
+| 🌸 Conteúdo     | 📄 Descrição                     | 🔗 Link                                                                                          |
+| --------------- | -------------------------------- | ------------------------------------------------------------------------------------------------ |
+| Exercícios AEDs | Listas e práticas de programação | [https://github.com/sofiamasha/Exercicios_Aeds1](https://github.com/sofiamasha/Exercicios_Aeds1) |
 
 ---
 
@@ -79,9 +93,9 @@ Aqui estão reunidos projetos, exercícios, resumos e materiais importantes de c
 
 * 💖 Organização por período acadêmico
 * 💖 Evolução contínua documentada
-* 💖 Projetos com propósito (SafeHer)
+* 💖 Projetos com propósito social (SafeHer)
 * 💖 Desenvolvimento front-end e back-end
-* 💖 Base sólida em lógica e algoritmos
+* 💖 Base sólida em lógica, algoritmos e arquitetura de computadores
 
 ---
 
@@ -89,19 +103,28 @@ Aqui estão reunidos projetos, exercícios, resumos e materiais importantes de c
 
 * 📌 Organizar o aprendizado
 * 📌 Facilitar revisões futuras
-* 📌 Acompanhar evolução acadêmica
-* 📌 Servir como portfólio
+* 📌 Acompanhar minha evolução acadêmica
+* 📌 Servir como portfólio para oportunidades de estágio e carreira
 
 ---
 
 ## 🌷 Observação final
 
-Cada disciplina aqui representa uma etapa importante da minha formação.
+Cada disciplina representa uma etapa importante da minha formação.
 
-Este repositório não é apenas um conjunto de códigos, mas um reflexo do meu desenvolvimento ao longo do curso 💖
+Mais do que um conjunto de códigos, este repositório documenta minha evolução durante a graduação em Ciência da Computação, reunindo projetos, estudos e experiências desenvolvidas ao longo do curso.
 
 ---
 
 <p align="center">
-  ✨ feito com dedicação, organização e muitas horas de estudo ✨
+✨ feito com dedicação, organização e muitas horas de estudo ✨
 </p>
+
+### Uma sugestão de recrutador
+
+Eu mudaria só uma coisinha: em vez de mostrar **61%, 65%, 70%...**, colocaria algo como:
+
+* 🏅 **Concluído**
+* ⭐ **Destaque (90%+)**
+* 📚 **Aprovado**
+
